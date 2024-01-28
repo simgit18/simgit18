@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @simgit18
 - 👀 I’m interested in learning Data Ananlytics
 - 🌱 I’m currently learning Machine Learning in python and web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me using my email id: shivamp1804@gmail.com
 
 <!---
